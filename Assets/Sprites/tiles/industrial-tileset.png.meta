@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      industrial-tileset_0: -8192303494350907523
+      industrial-tileset_1: 355971831906279098
+      industrial-tileset_10: 1123482530313728252
+      industrial-tileset_11: 7244172499838360980
+      industrial-tileset_2: 5067784525100323058
+      industrial-tileset_3: 1420673054388837898
+      industrial-tileset_4: -9044997303653643606
+      industrial-tileset_5: -6148921292973673494
+      industrial-tileset_6: 4826769776832286970
+      industrial-tileset_7: -1744603271505982274
+      industrial-tileset_8: 2498053133215607433
+      industrial-tileset_9: 4144334931485104489
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
