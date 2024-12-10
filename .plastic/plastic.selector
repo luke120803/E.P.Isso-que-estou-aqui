@@ -1,0 +1,4 @@
+repository "E.P.ISSO que estou aqui/E.P.ISSO que estou aqui@4674011300314@cloud"
+  path "/"
+    br "/main"
+    co "/main"
