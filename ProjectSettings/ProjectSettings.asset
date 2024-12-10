@@ -687,11 +687,19 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
+<<<<<<< HEAD
   cloudProjectId: 6c036060-984c-4611-bf13-dfe042b10eab
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: E.P.ISSO que estou aqui
   organizationId: unity_f13fea0382a0b76df868
+=======
+  cloudProjectId: cd59a48c-5474-45f4-b89b-bc98f413753d
+  framebufferDepthMemorylessMode: 0
+  qualitySettingsNames: []
+  projectName: E.P.ISSO que estou aqui
+  organizationId: mrsluke
+>>>>>>> 0cd8dff39ac9b6b47033422c4fc1ea381db2ac3b
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
