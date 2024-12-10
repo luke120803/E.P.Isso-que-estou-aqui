@@ -1,31 +1,34 @@
 fileFormatVersion: 2
-guid: 08199e52cc962fb4582e59cac8b0a438
+guid: a6edd51bfe355364e9a2133b457ca6ab
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2014134814907195045
-    second: engineer-run_0
+      213: 4436806697332472292
+    second: engineer-idle_0
   - first:
-      213: 3781388596901693982
-    second: engineer-run_1
+      213: -6402044109299221047
+    second: engineer-idle_1
   - first:
-      213: 3057271269636080644
-    second: engineer-run_2
+      213: 8267130912519794365
+    second: engineer-idle_2
   - first:
-      213: -7803586790146238308
-    second: engineer-run_3
+      213: 408509817945766019
+    second: engineer-idle_3
   - first:
-      213: -2183690410352615324
-    second: engineer-run_4
+      213: 8585806502392786047
+    second: engineer-idle_4
   - first:
-      213: 4234817908172167560
-    second: engineer-run_5
+      213: 2877429700586158761
+    second: engineer-idle_5
   - first:
-      213: 5586552936775650285
-    second: engineer-run_6
+      213: 6383829623208413572
+    second: engineer-idle_6
   - first:
-      213: -6528774338860663005
-    second: engineer-run_7
+      213: -5990829235298931990
+    second: engineer-idle_7
+  - first:
+      213: 786573282714613924
+    second: engineer-idle_8
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -58,11 +61,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-<<<<<<< HEAD
     filterMode: 0
-=======
-    filterMode: 1
->>>>>>> 0cd8dff39ac9b6b47033422c4fc1ea381db2ac3b
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -76,11 +75,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-<<<<<<< HEAD
   spritePixelsToUnits: 16
-=======
-  spritePixelsToUnits: 100
->>>>>>> 0cd8dff39ac9b6b47033422c4fc1ea381db2ac3b
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -104,11 +99,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-<<<<<<< HEAD
     textureCompression: 0
-=======
-    textureCompression: 1
->>>>>>> 0cd8dff39ac9b6b47033422c4fc1ea381db2ac3b
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -146,13 +137,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: engineer-run_0
+      name: engineer-idle_0
       rect:
         serializedVersion: 2
         x: 1
         y: 0
-        width: 15
-        height: 25
+        width: 14
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -161,20 +152,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b51a5b3ae0b5c04e0800000000000000
-      internalID: -2014134814907195045
+      spriteID: 4e9739b1f24b29d30800000000000000
+      internalID: 4436806697332472292
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: engineer-run_1
+      name: engineer-idle_1
       rect:
         serializedVersion: 2
         x: 17
         y: 0
-        width: 15
-        height: 23
+        width: 14
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -183,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e1ac90ce4e03a7430800000000000000
-      internalID: 3781388596901693982
+      spriteID: 9cd76d45dce5727a0800000000000000
+      internalID: -6402044109299221047
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: engineer-run_2
+      name: engineer-idle_2
       rect:
         serializedVersion: 2
         x: 33
@@ -205,18 +196,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4048aa8850c9d6a20800000000000000
-      internalID: 3057271269636080644
+      spriteID: dbea46883cfbab270800000000000000
+      internalID: 8267130912519794365
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: engineer-run_3
+      name: engineer-idle_3
       rect:
         serializedVersion: 2
         x: 49
-        y: 1
+        y: 0
         width: 14
         height: 24
       alignment: 0
@@ -227,14 +218,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c981767d82714b390800000000000000
-      internalID: -7803586790146238308
+      spriteID: 388bae9d3815ba500800000000000000
+      internalID: 408509817945766019
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: engineer-run_4
+      name: engineer-idle_4
       rect:
         serializedVersion: 2
         x: 65
@@ -249,20 +240,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 46061873429f1b1e0800000000000000
-      internalID: -2183690410352615324
+      spriteID: f7c6c5d3689e62770800000000000000
+      internalID: 8585806502392786047
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: engineer-run_5
+      name: engineer-idle_5
       rect:
         serializedVersion: 2
         x: 81
         y: 0
-        width: 15
-        height: 23
+        width: 14
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -271,20 +262,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8899011537815ca30800000000000000
-      internalID: 4234817908172167560
+      spriteID: 9aab891411faee720800000000000000
+      internalID: 2877429700586158761
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: engineer-run_6
+      name: engineer-idle_6
       rect:
         serializedVersion: 2
         x: 97
         y: 0
-        width: 15
-        height: 24
+        width: 14
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -293,19 +284,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: deb8d631c4c678d40800000000000000
-      internalID: 5586552936775650285
+      spriteID: 48904f5283be79850800000000000000
+      internalID: 6383829623208413572
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: engineer-run_7
+      name: engineer-idle_7
       rect:
         serializedVersion: 2
         x: 113
-        y: 1
-        width: 15
+        y: 0
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea6bff1d8c4cdca0800000000000000
+      internalID: -5990829235298931990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: engineer-idle_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 14
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -315,8 +328,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 32f368964522565a0800000000000000
-      internalID: -6528774338860663005
+      spriteID: 4a87402bb387aea00800000000000000
+      internalID: 786573282714613924
       vertices: []
       indices: 
       edges: []
@@ -335,14 +348,15 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      engineer-run_0: -2014134814907195045
-      engineer-run_1: 3781388596901693982
-      engineer-run_2: 3057271269636080644
-      engineer-run_3: -7803586790146238308
-      engineer-run_4: -2183690410352615324
-      engineer-run_5: 4234817908172167560
-      engineer-run_6: 5586552936775650285
-      engineer-run_7: -6528774338860663005
+      engineer-idle_0: 4436806697332472292
+      engineer-idle_1: -6402044109299221047
+      engineer-idle_2: 8267130912519794365
+      engineer-idle_3: 408509817945766019
+      engineer-idle_4: 8585806502392786047
+      engineer-idle_5: 2877429700586158761
+      engineer-idle_6: 6383829623208413572
+      engineer-idle_7: -5990829235298931990
+      engineer-idle_8: 786573282714613924
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
