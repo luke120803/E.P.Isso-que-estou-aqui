@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9cec583fe5c4e6a4a9c79ee3106b5423, type: 3}
   m_Name: Chapeu
   m_EditorClassIdentifier: 
-  sprite: {fileID: -2552588362852645552, guid: 720bbe1ef97f1b345964d96e4dfe1643, type: 3}
+  sprite: {fileID: 4483504832982471387, guid: 6c22fe44fc0962c4c93308a118bd11ce, type: 3}
   nameEquip: 
   equipCerto: 1
   itemTag: 2

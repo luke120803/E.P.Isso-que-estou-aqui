@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 724731762b5f20f4e8d15a0e86f78368
+guid: 5f1e399aa8d83384087d038041f8017e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -855298285791758126
-    second: 1_0
+      213: -4484398801930883012
+    second: TextBox_Sci-Fi_02_transparent_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -75,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 3
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 1_0
+      name: TextBox_Sci-Fi_02_transparent_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 0
-        width: 22
-        height: 32
+        x: 6
+        y: 3
+        width: 1269
+        height: 242
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2d8b16a9dbe5124f0800000000000000
-      internalID: -855298285791758126
+      spriteID: c30f8bb8c0734c1c0800000000000000
+      internalID: -4484398801930883012
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      1_0: -855298285791758126
+      TextBox_Sci-Fi_02_transparent_0: -4484398801930883012
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

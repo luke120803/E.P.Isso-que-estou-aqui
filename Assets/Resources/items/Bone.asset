@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9cec583fe5c4e6a4a9c79ee3106b5423, type: 3}
   m_Name: Bone
   m_EditorClassIdentifier: 
-  sprite: {fileID: 8128082410414974340, guid: 3a7e7dbd94d353844aa20802206fa08c, type: 3}
+  sprite: {fileID: -3337038689812066966, guid: da9da58ef3193b445a2c1312e973bc76, type: 3}
   nameEquip: 
   equipCerto: 1
   itemTag: 1

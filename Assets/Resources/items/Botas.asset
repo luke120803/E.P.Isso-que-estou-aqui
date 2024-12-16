@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9cec583fe5c4e6a4a9c79ee3106b5423, type: 3}
   m_Name: Botas
   m_EditorClassIdentifier: 
-  sprite: {fileID: 1398818839468708645, guid: 8f6a814ac693c6a43bb53f6522e1f2d7, type: 3}
+  sprite: {fileID: -7278544124799597275, guid: 357970b62f83c3742bfd4b607a40fbd2, type: 3}
   nameEquip: 
   equipCerto: 1
   itemTag: 3
