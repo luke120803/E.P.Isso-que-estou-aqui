@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cec583fe5c4e6a4a9c79ee3106b5423, type: 3}
+  m_Name: Capacete
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 4964869317685371108, guid: 85bfc3fcd77e2314f84d213388f27f14, type: 3}
+  nameEquip: 
+  equipCerto: 1
+  itemTag: 1
+  prefab: {fileID: 4274224252832400004, guid: 4484ffce3f299224f835833ff7f646c2, type: 3}
